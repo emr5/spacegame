@@ -1,4 +1,4 @@
-# README for Sarvesh: Asteroid 4 #
+# README for Emir: Asteroid 4 #
 
 This is the README file for the Sarvesh: Asteroid 4 app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
